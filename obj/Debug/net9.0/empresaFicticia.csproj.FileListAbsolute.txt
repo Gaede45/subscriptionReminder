@@ -1,0 +1,14 @@
+C:\Users\Perfil\CsharpProject\empresaFicticia\bin\Debug\net9.0\empresaFicticia.exe
+C:\Users\Perfil\CsharpProject\empresaFicticia\bin\Debug\net9.0\empresaFicticia.deps.json
+C:\Users\Perfil\CsharpProject\empresaFicticia\bin\Debug\net9.0\empresaFicticia.runtimeconfig.json
+C:\Users\Perfil\CsharpProject\empresaFicticia\bin\Debug\net9.0\empresaFicticia.dll
+C:\Users\Perfil\CsharpProject\empresaFicticia\bin\Debug\net9.0\empresaFicticia.pdb
+C:\Users\Perfil\CsharpProject\empresaFicticia\obj\Debug\net9.0\empresaFicticia.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Perfil\CsharpProject\empresaFicticia\obj\Debug\net9.0\empresaFicticia.AssemblyInfoInputs.cache
+C:\Users\Perfil\CsharpProject\empresaFicticia\obj\Debug\net9.0\empresaFicticia.AssemblyInfo.cs
+C:\Users\Perfil\CsharpProject\empresaFicticia\obj\Debug\net9.0\empresaFicticia.csproj.CoreCompileInputs.cache
+C:\Users\Perfil\CsharpProject\empresaFicticia\obj\Debug\net9.0\empresaFicticia.dll
+C:\Users\Perfil\CsharpProject\empresaFicticia\obj\Debug\net9.0\refint\empresaFicticia.dll
+C:\Users\Perfil\CsharpProject\empresaFicticia\obj\Debug\net9.0\empresaFicticia.pdb
+C:\Users\Perfil\CsharpProject\empresaFicticia\obj\Debug\net9.0\empresaFicticia.genruntimeconfig.cache
+C:\Users\Perfil\CsharpProject\empresaFicticia\obj\Debug\net9.0\ref\empresaFicticia.dll
