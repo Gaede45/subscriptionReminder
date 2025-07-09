@@ -7,7 +7,7 @@ This project was created as part of the **Microsoft C# course in partnership wit
 
 🔗 [C# conditional logic with if, else, and else if – Microsoft Learn](https://learn.microsoft.com/en-us/training/modules/csharp-if-elseif-else/)
 
-The goal was to practice using `if`, `else if`, and `else` statements in a fun and practical way by building a simple dice game.
+The goal was to practice using `if`, `else if`, and `else` statements in a fun and practical way by building a simple Subscription Reminder.
 
 # 📅 Subscription Reminder
 
